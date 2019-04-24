@@ -1,1 +1,1 @@
-hello£¬zqq!
+console.log("hello£¬zqq!")
